@@ -31,6 +31,7 @@ Landing page code and output task 2 (level 1)
    </div>
 </body>
 </html>
+
 #CSS CODE
 
 body{
